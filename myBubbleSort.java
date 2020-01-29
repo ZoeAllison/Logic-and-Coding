@@ -17,7 +17,7 @@ public class myBubbleSort{
     }
     
     public static void main(String [] args){
-        int[] myArray={8,2,5,9,3,1,4,6,7};
+        int[] myArray={24,-12,1000,-3,0,0,-45,67,312,82,4,9,1001,45,56,-1002};
         bubbleSort(myArray);
         System.out.println(java.util.Arrays.toString(myArray));
     }
